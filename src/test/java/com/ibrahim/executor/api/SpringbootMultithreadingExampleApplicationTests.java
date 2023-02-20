@@ -1,4 +1,4 @@
-package com.ibrahim.springbootmultithreadingexample;
+package com.ibrahim.executor.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
